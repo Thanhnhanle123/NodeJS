@@ -9,5 +9,4 @@ class HomeController{
         .catch(next);
     }
 }
-
 module.exports = new HomeController;
